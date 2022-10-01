@@ -1,4 +1,4 @@
-# WindowsDefenderEvasion
+# Windows Defender Evasion
 **An easy way to evade WD!**
 
 WORK-IN-PROGRESS
